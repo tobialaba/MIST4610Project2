@@ -29,4 +29,4 @@ The main manipulation applied to the dataset was filtering the state by Washingt
   After discovering that BEVs seem to be in higher demand than PHEVs and have a larger distribution in range increasing the demand for BEV charging stations, a charging station business might next ask what areas within Washington have the highest concentration of BEVs to know where the best place to install more BEV charging stations would be. As shown in the figure above, Snohomish, Kitsap, and Spokane County have some of the highest concentrations of BEVs in the state, meaning that a business would want to look into moving into the BEV charging station business in these areas as they would allow for the highest usage and hopefully most successful business. 
 
 ## Tableau Packaged Workbook:
-Workbooks are provided under files section of repository. 
+Workbook provided under files section of repository. 
