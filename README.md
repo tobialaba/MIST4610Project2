@@ -20,11 +20,13 @@ The Electric Vehicle Population Data was pulled from the data.gov website and re
 The main manipulation applied to the dataset was filtering the state by Washington. Despite the data stating that all vehicles were registered through the Washington DOL, there is still a possibility for the address information to be outside of the state if people recently moved or these vehicles belong to the military for example. However, using Excel transformation, only vehciles with Washington as their listed state were allowed in the new dataset fixing this issue.  
 
 ## Analysis and Results:
-Analyze and visualize the results of your analysis and describe the implications of your analysis.
-Please provide any citations if required as well as supporting visualizations and analysis
-generated from Tableau.
+**Question 1 Analysis**
+  <img width="961" height="677" alt="Screenshot 2026-04-30 at 11 58 53 AM" src="https://github.com/user-attachments/assets/1eac06d7-ddcb-4a22-9bea-99f79557e965" />
+  Using the image created to evaluate which EV type has a larger range, as well as the general distribution of the ranges per typer, it is obvious that BEVs have a larger range than PHEVs. This makes sense due to the fact that PHEVs can also rely on gasoline/disel to function, meaning the range on BEVs should be larger than PHEVs. However, this figure allows individuals to quantify how large this difference is. As seen in the figure, most PHEVs are clustered from the 0 - 60 mile range, where BEVs range from 60 - 340 miles. With BEVs having a larger range, this means individuals are more likely to take them on longer road trips since they will use clean energy for a longer period of time. However, with this, more BEV-specific charging stations are needed to ensure that this demand for BEVs is met and individuals on longer road trips are not stranded. A business that manufactures and installs charging stations would find this information useful as BEVs seem to be in a higher demand based on the figure and have a larger distribution of range associated with them. With this information, electric charging station business can tailor their charging installations to those specific for BEVs knowing that they will be used more. 
 
-## Tableau Packaged Workbook
-Save or Export your project as a Tableau packaged workbook file and provide it as part of the
-github repository.
-This group project is worth 12.5% of your final grade.
+**Question 2 Analysis**
+<img width="966" height="776" alt="Screenshot 2026-04-30 at 12 18 17 PM" src="https://github.com/user-attachments/assets/54a4fd2a-ae68-4bc1-8dfe-ff30abf3dc26" />
+  After discovering that BEVs seem to be in higher demand than PHEVs and have a larger distribution in range increasing the demand for BEV charging stations, a charging station business might next ask what areas within Washington have the highest concentration of BEVs to know where the best place to install more BEV charging stations would be. As shown in the figure above, Snohomish, Kitsap, and Spokane County have some of the highest concentrations of BEVs in the state, meaning that a business would want to look into moving into the BEV charging station business in these areas as they would allow for the highest usage and hopefully most successful business. 
+
+## Tableau Packaged Workbook:
+Workbooks are provided under files section of repository. 
