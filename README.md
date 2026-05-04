@@ -26,7 +26,8 @@ To help answer the second question, we used longitude and latitude to create a m
 
 ## Analysis and Results:
 **Question 1 Analysis**
-  <img width="961" height="677" alt="Screenshot 2026-04-30 at 11 58 53 AM" src="https://github.com/user-attachments/assets/1eac06d7-ddcb-4a22-9bea-99f79557e965" />
+  <img width="1302" height="756" alt="Screenshot 2026-05-04 at 1 45 27 PM" src="https://github.com/user-attachments/assets/ad585149-e579-4921-866c-5a9d77a7e759" />
+
   Using the image created to evaluate which EV type has a larger range, as well as the general distribution of the ranges per type, it is obvious that BEVs have a larger range than PHEVs. This makes sense due to the fact that PHEVs can also rely on gasoline/diesel to function, meaning the range on BEVs should be larger than PHEVs. However, this figure allows individuals to quantify how large this difference is. As seen in the figure, most PHEVs are clustered from the 0 - 60 mile range, where BEVs range from 60 - 340 miles. With BEVs having a larger range, this means individuals are more likely to take them on longer road trips since they will use clean energy for a longer period of time. However, with this, more BEV-specific charging stations are needed to ensure that this demand for BEVs is met and individuals on longer road trips are not stranded. A business that manufactures and installs charging stations would find this information useful as BEVs seem to be in a higher demand based on the figure and have a larger distribution of range associated with them. With this information, electric charging station business can tailor their charging installations to those specific for BEVs knowing that they will be used more. 
 
 **Question 2 Analysis**
