@@ -18,7 +18,7 @@ The Electric Vehicle Population Data was pulled from the data.gov website and re
   By producing a map of BEV concentration in the state of Washington, charging stations will know which counties require more charging stations and know where demand will be more consistent to ensure enough business to sustain a company.  
 
 ## Dataset Manipulations:
-The main manipulation applied to the dataset was filtering the state row to only include entries that had Washington listed as the state. Despite the data stating that all vehicles were registered through the Washington DOL, there is still a possibility for the address information to be outside of the state if people recently moved or these vehicles belong to the military for example. However, using Excel transformation, only vehicles with Washington as their listed state were allowed in the new dataset fixing this issue.  
+The main manipulation applied to the dataset was filtering the state row to only include entries that had Washington listed as the state. Despite the data stating that all vehicles were registered through the Washington DOL, there is still a possibility for the address information to be outside of the state if people recently moved or these vehicles belong to the military for example. However, using Excel transformation, only vehicles with Washington as their listed state were allowed in the new dataset fixing this issue. Additionally, under the first question, we filtered out vehciles that have an electric range that was registered at zero to ensure a more intuitive and accurate reading of the graph that didn't include unimportant information. 
 
 ## Analysis and Results:
 **Question 1 Analysis**
