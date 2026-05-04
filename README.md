@@ -15,7 +15,7 @@ The Electric Vehicle Population Data was pulled from the data.gov website and re
   By seeing the distribution of electric ranges between PHEVs and BEVs, we would be able to see the effects on demand for both PHEVs and BEVs, allowing charging station businesses to know which types of charging stations to install at higher rates.
 
   The second question the EV Population Data set answered was: **Which Washington counties have the highest concentration of BEVs?**
-  By producing a map of BEV concentration in the state of Washington, charging stations will know which counties require more charging stations and to know where demand will be more consistent to ensure enough business to sustain a company.  
+  By producing a map of BEV concentration in the state of Washington, charging stations will know which counties require more charging stations and know where demand will be more consistent to ensure enough business to sustain a company.  
 
 ## Dataset Manipulations:
 The main manipulation applied to the dataset was filtering the state row to only include entries that had Washington listed as the state. Despite the data stating that all vehicles were registered through the Washington DOL, there is still a possibility for the address information to be outside of the state if people recently moved or these vehicles belong to the military for example. However, using Excel transformation, only vehicles with Washington as their listed state were allowed in the new dataset fixing this issue.  
