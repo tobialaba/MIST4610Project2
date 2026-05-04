@@ -1,6 +1,7 @@
 # MIST4610Project2
 
-## Team name and members:
+## Team Name and Members:
+Group 6
   1. Tobi Alaba [@tobialaba](https://github.com/tobialaba)
   2. Claire Gracey [@clairegracey28-blip](https://github.com/clairegracey28-blip)
   3. Naysa McFarlane [@ndm53209](https://github.com/ndm53209)
